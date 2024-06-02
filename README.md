@@ -11,7 +11,7 @@
 - 😄 Pronouns: he/they
 - ⚡ Fun fact: I have a scar on my right leg!
 
-## Some more information about me!
+### Some more information about me!
 Here are the stats I currently have and my discord community:
 
 [![Stats](https://github-readme-stats-devonk15s-projects.vercel.app/api?username=devonk15&show_icons=true&count_private&theme=dark)](https://github.com/devonk15)
