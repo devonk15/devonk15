@@ -1,6 +1,6 @@
 ## Hi there, I'm Devon 👋
 ### Get to know me!
-- I'm a student and a Novice, but very eager to learn, Programmer.
+- 🏫 I'm a student and a Novice, but very eager to learn, Programmer.
 - 🔭 I’m currently working on finishing my mod [Unknown Mod](https://github.com/devonk15/unknown-mod)!
 - 🌱 I’m currently learning many programming languages such as ```Java```, ```Python```, and ```HTML```!
 - 👯 I’m looking to collaborate on anything that would help me gain experience!
