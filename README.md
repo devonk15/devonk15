@@ -18,4 +18,4 @@ Here are the stats I currently have and my discord community:
 
 [![Static Badge](https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/btXNZJyTZj)
 
-<small>Below this page are my current (public) repositories!</small>
+Below this page are my current (public) repositories!
