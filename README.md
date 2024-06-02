@@ -15,4 +15,5 @@
 Here are the stats I currently have and my discord community:
 
 [![Stats](https://github-readme-stats-devonk15s-projects.vercel.app/api?username=devonk15&show_icons=true&count_private&theme=dark)](https://github.com/devonk15)
+
 [![Static Badge](https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/btXNZJyTZj)
