@@ -25,7 +25,7 @@ Unknown Mod Following on Modrinth:
 
 Custom Splashes Following on Modrinth:
 
-<a href="https://modrinth.com/resourcepack/customizable-splashes"><img alt="Modrinth Followers" src="https://img.shields.io/modrinth/followers/4WjPj1j4?style=for-the-badge&logo=modrinth&label=modrinth_followers&labelColor=c9c9c5&color=gray"></a>
+<a href="https://modrinth.com/resourcepack/customizable-splashes" target="_blank"><img alt="Modrinth Followers" src="https://img.shields.io/modrinth/followers/4WjPj1j4?style=for-the-badge&logo=modrinth&label=modrinth_followers&labelColor=c9c9c5&color=gray"></a>
 
 <!--END_SECTION:activity-->
 </details>
