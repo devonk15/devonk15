@@ -7,7 +7,7 @@
 - 🤔 I’m looking for help with porting mods to newer versions--i.e., mods I've never coded for before--.
 - 💬 Ask me about Coding--I'll try my hardest as long as it isn't very complicated--, and Minecraft Modding!
 - 📫 How to reach me:
-    -I am availble via discord: thegremlinx
+  - I am availble via discord: thegremlinx
 - 😄 Pronouns: he/they
 - ⚡ Fun fact: I have a scar on my right leg!
 
