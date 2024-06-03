@@ -11,11 +11,26 @@
 - 😄 Pronouns: he/they
 - ⚡ Fun fact: I have a scar on my right leg!
 
-### Some more information about me!
-Here are the stats I currently have and my discord community:
+<h3> Some more information about me! </h3>
+<details>
+  <summary> 💪 Stats! </summary>
+  
+<!--START_SECTION:activity-->
 
 [![Stats](https://github-readme-stats-devonk15s-projects.vercel.app/api?username=devonk15&show_icons=true&count_private&theme=dark)](https://github.com/devonk15)
 
-[![Static Badge](https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/btXNZJyTZj)
+Unknown Mod Following on Modrinth:
+
+[![Modrinth Followers](https://img.shields.io/modrinth/followers/7EyjyjZ4?style=for-the-badge&logo=modrinth&label=modrinth_followers&labelColor=c9c9c5&color=gray)](https://modrinth.com/mod/unknown-mod)
+
+Custom Splashes Following on Modrinth:
+
+[![Modrinth Followers](https://img.shields.io/modrinth/followers/4WjPj1j4?style=for-the-badge&logo=modrinth&label=modrinth_followers&labelColor=c9c9c5&color=gray)](https://modrinth.com/resourcepack/customizable-splashes)
+
+<!--END_SECTION:activity-->
+</details>
+<h4> If you want, you can join my community discord server by click below! </h4>
+
+[![Discord](https://img.shields.io/badge/discord_community-gray?style=for-the-badge&logo=discord&logoColor=white&color=%235865F2)](https://discord.gg/jBXuBdsMTc)
 
 Below this page are my current (public) repositories!
