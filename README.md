@@ -9,13 +9,12 @@
 - 📫 How to reach me:
   - I am availble via discord: thegremlinx
 - 😄 Pronouns: he/they
-- ⚡ Fun fact: I have a scar on my right leg!
+- ⚡ Fun fact: I have a scar on my right leg
+- 🏛️ I created the Unknown Group organization on Github and Modrinth!
 
 <h3> Some more information about me! </h3>
 <details>
   <summary> 💪 Stats! </summary>
-  
-<!--START_SECTION:activity-->
 
 [![Stats](https://github-readme-stats-devonk15s-projects.vercel.app/api?username=devonk15&show_icons=true&count_private&theme=dark)](https://github.com/devonk15)
 
@@ -27,7 +26,6 @@ Custom Splashes Following on Modrinth:
 
 <a href="https://modrinth.com/resourcepack/customizable-splashes" target="_blank"><img alt="Modrinth Followers" src="https://img.shields.io/modrinth/followers/4WjPj1j4?style=for-the-badge&logo=modrinth&label=modrinth_followers&labelColor=c9c9c5&color=gray"></a>
 
-<!--END_SECTION:activity-->
 </details>
 <h4> If you want, you can join my community discord server by click below! </h4>
 
