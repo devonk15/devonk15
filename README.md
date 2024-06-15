@@ -27,7 +27,7 @@ Custom Splashes Following on Modrinth:
 <a href="https://modrinth.com/resourcepack/customizable-splashes" target="_blank"><img alt="Modrinth Followers" src="https://img.shields.io/modrinth/followers/4WjPj1j4?style=for-the-badge&logo=modrinth&label=modrinth_followers&labelColor=c9c9c5&color=gray"></a>
 
 </details>
-<h4> If you want, you can join my community discord server by click below! </h4>
+<h4> If you want, you can join my community discord server by clicking below! </h4>
 
 [![Discord](https://img.shields.io/badge/discord_community-gray?style=for-the-badge&logo=discord&logoColor=white&color=%235865F2)](https://discord.gg/jBXuBdsMTc)
 
