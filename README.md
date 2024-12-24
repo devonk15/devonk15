@@ -3,7 +3,7 @@
 - 🏫 I'm a student and a Novice, but very eager to learn, Programmer.
 - 🔭 I’m currently working on finishing my mod [Unknown Mod](https://github.com/devonk15/unknown-mod)!
 - 🌱 I’m currently learning many programming languages such as ```Java```, ```Python```, ```HTML```, ```Javascript```, and ```C#```!
-- 👯 I’m looking to collaborate on anything that would help me gain experience!
+- 👯 I’m looking to collaborate on anything that is beginner accessible!
 - 🤔 I’m looking for help with porting mods to newer versions--i.e., mods I've never coded for before--.
 - 💬 Ask me about Coding--I'll try my hardest as long as it isn't very complicated--, and Minecraft Modding!
 - 📫 How to reach me:
