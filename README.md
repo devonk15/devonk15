@@ -16,7 +16,7 @@
 <details>
   <summary> 💪 Stats! </summary>
 
-[![Stats](https://github-readme-stats-devonk15s-projects.vercel.app/api?username=devonk15&show_icons=true&count_private&theme=dark)](https://github.com/devonk15)
+[![Stats](https://github-readme-stats-devonk15s-projects.vercel.app/api?username=devonk15&show_icons=true&count_private&theme=radical)](https://github.com/devonk15)
 
 Unknown Mod Following on Modrinth:
 
