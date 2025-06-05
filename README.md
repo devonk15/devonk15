@@ -1,4 +1,6 @@
-<h3> Some more information about me! </h3>
+### To know more about me, you can go [here](https://thegremlinx.xyz)!
+
+<h4> Some more information about me! </h4>
 <details>
   <summary> 💪 Stats! </summary>
 
@@ -13,7 +15,7 @@ Custom Splashes Following on Modrinth:
 <a href="https://modrinth.com/resourcepack/customizable-splashes" target="_blank"><img alt="Modrinth Followers" src="https://img.shields.io/modrinth/followers/4WjPj1j4?style=for-the-badge&logo=modrinth&label=modrinth_followers&labelColor=c9c9c5&color=gray"></a>
 
 </details>
-<h4> If you want, you can join my organizations community discord server by clicking below! </h4>
+<h5> If you want, you can join my organizations community discord server by clicking below! </h5>
 
 [![Discord](https://img.shields.io/badge/discord_community-gray?style=for-the-badge&logo=discord&logoColor=white&color=%235865F2)](https://discord.gg/jspNzHYTFn)
 
